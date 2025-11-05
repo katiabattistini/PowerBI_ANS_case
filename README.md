@@ -71,8 +71,8 @@ O projeto foi estruturado para atender a dois objetivos de negócio principais:
 
 ## 🖼️ Preview do Dashboard
 
-`![Dashboard Preview](https://github.com/katiabattistini/PowerBI_ANS_case/blob/main/images/painel_operadoras.PNG)`
-`![Dashboard Preview](https://github.com/katiabattistini/PowerBI_ANS_case/blob/main/images/painel_reclamacoes.PNG)`
+![Dashboard Operadoras](https://raw.githubusercontent.com/katiabattistini/PowerBI_ANS_case/main/images/painel_operadoras.PNG)
+![Dashboard Reclamações](https://raw.githubusercontent.com/katiabattistini/PowerBI_ANS_case/main/images/painel_reclamacoes.PNG)
 ---
 
 ## 🙋 Contato
